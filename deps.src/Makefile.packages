@@ -1,9 +1,9 @@
 
 # packages
-SDL2		= SDL2-2.0.5.tar.gz
-SDL2DIR		= SDL2-2.0.5
-SDL2_TTF	= SDL2_ttf-2.0.14.tar.gz
-SDL2_TTFDIR	= SDL2_ttf-2.0.14
+SDL2		= SDL2-2.0.12.tar.gz
+SDL2DIR		= SDL2-2.0.12
+SDL2_TTF	= SDL2_ttf-2.0.15.tar.gz
+SDL2_TTFDIR	= SDL2_ttf-2.0.15
 YASM		= yasm-1.3.0.tar.gz
 YASMDIR		= yasm-1.3.0
 LAME		= lame-3.99.5.tar.gz
@@ -26,6 +26,6 @@ XVID		= xvidcore-1.3.4.tar.bz2
 XVIDDIR		= xvidcore
 FFMPEG		= ffmpeg-2.8.8.tar.bz2
 FFMPEGDIR	= ffmpeg-2.8.8
-LIVE555		= live.2015.09.24.tar.gz
+LIVE555		= live.2020.12.10.tar.gz
 LIVE555DIR	= live
 

@@ -17,7 +17,7 @@ ubuntu_pkgs:
 	sudo apt-get install libx264-dev
 	sudo apt-get install libavcodec-dev libavdevice-dev libavfilter-dev \
 		libavformat-dev libavresample-dev libavutil-dev libpostproc-dev \
-		libswresample-dev libswscale-dev ffmpeg
+		libswresample-dev libswscale-dev ffmpeg liblivemedia-dev
 
 live555:
 	$(TGZUNPACK) $(LIVE555)
